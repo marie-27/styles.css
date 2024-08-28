@@ -1,0 +1,17 @@
+body{
+ color:white;
+ background:black;
+ margin:0px;
+}
+header{
+ border-bottom:solid 2pxrgb(42, 122, 228);
+ padding:32px;
+ color:rgb(42, 122, 228);
+}
+
+
+
+
+
+
+
